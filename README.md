@@ -13,6 +13,6 @@ Completed:
 * [x] Additional: Also remembering the tip percentage across app restarts.
 * [x] Additional: User can customize the tip percentages by change the setting
 
-![Video Walkthrough](anim_tip_calculator.gif)
+![Video Walkthrough](tipCap.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
